@@ -1,6 +1,22 @@
 # 💫 About Me:
-# Hi, I'm Hamza<br><br>I'm a Computer and Electrical Engineering graduate focused on embedded systems, firmware, hardware-software integration, edge AI, and applied sensing systems.<br><br>Most of my work sits somewhere between hardware and software. I like building systems that interact with the physical world, whether that means wearable medical devices, BLE-connected sensors, FPGA communication logic, mmWave radar authentication, or research tools for clinical and engineering labs.<br><br>## What I work on<br><br>* Embedded firmware and hardware-software integration<br>* ESP32-S3, ATmega328P, BLE, UART, SPI, I2C, FreeRTOS, and sensor systems<br>* FPGA and digital design projects using VHDL and Vivado<br>* Edge AI, signal processing, mmWave radar, and point-cloud feature engineering<br>* React Native, Firebase, SQLite, and full-stack app development<br>* Research websites and lab pages for academic groups<br>* Tools that make research devices easier to deploy, monitor, and maintain<br><br>## Featured projects<br><br>### TremorMonitor<br><br>A Parkinson's tremor monitoring platform built with React Native, BLE, SQLite, Firebase, ESP32-S3, C++, and FreeRTOS. The system connects wearable hardware to a mobile app for tremor detection, medication tracking, clinical data export, and long-term symptom monitoring.<br><br>### GUARD<br><br>A GAN-based continuous driver authentication system using TI IWR6843 mmWave radar and point-cloud feature extraction. The project focuses on behavioral authentication using radar-based sensing and machine learning.<br><br>### Basys 3 UART Transmitter<br><br>A VHDL project on the Basys 3 FPGA that implements a full UART transmitter with a 100 MHz to 9600 baud clock divider, FSM-controlled serial framing, and USB-UART output.<br><br>### PT KIDS Wearable Firmware<br><br>Firmware and deployment tooling for pediatric wearable research devices, including OTA-style firmware update support and Bluetooth-based device deployment workflows.<br><br>### Handover Analyzer<br><br>A Raspberry Pi and Python-based WiFi measurement project that collected and analyzed wireless coverage data to identify weak infrastructure regions and support network improvement recommendations.<br><br>### Natural Language to Code Converter<br><br>A rule-based command-line tool that translates plain English programming requests into code across multiple languages.<br><br>### Lab websites<br><br>I also build and maintain research lab websites, including pages for biomedical, musculoskeletal, and MPS-related research groups.<br><br>## Tech I use<br><br>C, C++, Python, MATLAB, VHDL, SQL, JavaScript, Java, React Native, Firebase, SQLite, Linux, Vivado, Arduino IDE, ESP32-S3, Raspberry Pi, FreeRTOS, BLE, UART, SPI, I2C, CAN, Git, SolidWorks, Multisim, PyShark, Whisper, NLP, GANs, and mmWave radar processing.<br><br>## Currently interested in<br><br>I'm especially interested in firmware engineering, embedded systems, hardware validation, edge AI, medical devices, robotics, FPGA systems, and sensing platforms that turn real-world signals into useful data.<br>
+# Hi, I'm Hamza
 
+Computer and Electrical Engineering graduate focused on embedded systems, firmware, edge AI, and hardware-software integration.
+I like building systems that connect software to the physical world, from BLE medical wearables and FPGA communication logic to mmWave radar authentication, Raspberry Pi network tools, and lab websites.
+Currently interested in firmware engineering, embedded systems, FPGA design, medical devices, edge AI, and sensing platforms.
+
+## Featured work
+
+- TremorMonitor: Parkinson's tremor monitoring app with React Native, BLE, SQLite, Firebase, ESP32-S3, and FreeRTOS
+- GUARD: mmWave radar driver authentication using point-cloud feature extraction and GAN-based modeling
+- Basys 3 UART Transmitter: VHDL UART transmitter with baud-rate generation and FSM-controlled serial framing
+- PT KIDS Firmware: OTA firmware deployment tools for pediatric wearable research devices
+- WiFi Coverage Analyzer: Raspberry Pi scanner and MATLAB analysis for campus WiFi coverage
+- Lab websites: Research websites for biomedical and engineering labs
+
+## Tech
+
+C, C++, Python, VHDL, MATLAB, SQL, JavaScript, React Native, Firebase, SQLite, ESP32-S3, Raspberry Pi, FreeRTOS, BLE, UART, SPI, I2C, FPGA, Git, Linux
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hakat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzaabukat@gmail.com) 
