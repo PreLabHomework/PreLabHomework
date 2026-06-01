@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 # Hi, I'm Hamza
 
 Computer and Electrical Engineering graduate focused on embedded systems, firmware, edge AI, and hardware-software integration.
